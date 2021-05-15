@@ -1,4 +1,4 @@
-@import '~antd/dist/antd.css';
+@import '~antd/dist/antd.dark.css';
 
 .site-layout-content {
   min-height: 480px;
@@ -36,3 +36,24 @@ body::-webkit-scrollbar-thumb
   border-radius: 10px;
   
 }
+
+
+
+
+.logo {
+  font-size: 3rem;
+  color: #fcedd8;
+  font-family: 'Niconne', cursive;
+  font-weight: 700;
+  text-shadow: 2px 2px 0px #eb452b, 
+              4px 4px 0px #efa032, 
+              6px 6px 0px #46b59b, 
+              8px 8px 0px #017e7f, 
+              10px 10px 0px #052939, 
+              12px 12px 0px #000, 
+              14px 14px 0px #000, 
+              16px 16px 0px #000;
+}
+
+
+
